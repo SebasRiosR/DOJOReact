@@ -1,0 +1,14 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+Ejercicio 1/node_modules
+Ejercicio 2/node_modules
+
+# production
+Ejericio 1/build
+Ejericio 2/build
+
+# misc
+.DS_Store
+Ejercicio 1/npm-debug.log
+Ejercicio 2/npm-debug.log
